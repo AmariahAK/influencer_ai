@@ -1,0 +1,16 @@
+flask
+flask-sqlalchemy
+flask-cors
+tensorflow
+numpy
+pandas
+beautifulsoup4
+requests
+python-dotenv
+pytest
+selenium
+urllib3
+jwt
+logging
+scikit-learn
+gunicorn
